@@ -1,0 +1,16 @@
+{
+   "ErrorCode":"1",
+   "ErrorMessage":"1001",
+   "ProductDraws":[
+      {
+         "DrawNo":"1",
+         "DrawResult":"02,03,06,04,01,07,10,09,08,05",
+         "EndTime":"190808"
+      },
+      {
+         "DrawNo":"2",
+         "DrawResult":"01,02,03,04,05,06,07,08,09,10",
+         "EndTime":"190808"
+      }
+   ]
+}
